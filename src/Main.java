@@ -13,7 +13,9 @@ public class Main {
         System.out.println("Generar una contraseña\n");
         //GeneradorContrasenias.generador();
         System.out.println("Control de asistencia\n");
-        ControlAsistenciaClase.asistencia();
+        //ControlAsistenciaClase.asistencia();
+        System.out.println("Calcular promedio");
+        CalculadoraPromedios.calcularPromedio();
 
     }
 }
