@@ -11,6 +11,9 @@ public class Main {
         System.out.println("Cajero Automatico\n");
         //CajeroAutomatico.cajero();
         System.out.println("Generar una contraseña\n");
-        GeneradorContrasenias.generador();
+        //GeneradorContrasenias.generador();
+        System.out.println("Control de asistencia\n");
+        ControlAsistenciaClase.asistencia();
+
     }
 }
